@@ -1,0 +1,7 @@
+/target
+
+# Scrapbook - notes et documentation de développement
+/scrapbook
+
+# Configuration VS Code
+.vscode/
